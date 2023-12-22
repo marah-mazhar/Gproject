@@ -1,0 +1,10 @@
+
+.Products {
+  display: flex;
+}
+
+.ProductContent {
+  flex: 1; /* Take the remaining space */
+  padding: 20px;
+  /* Additional styles as needed */
+}
